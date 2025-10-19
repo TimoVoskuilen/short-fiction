@@ -1,0 +1,52 @@
+# =========================
+#  BASIC WEB PROJECT
+# =========================
+
+# System & OS junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Node & dependencies (if you ever use them)
+node_modules/
+npm-debug.log*
+
+# VS Code settings
+.vscode/
+.history/
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+
+# Build or cache folders (if you ever use generators like Jekyll or Eleventy)
+_site/
+dist/
+.cache/
+.tmp/
+out/
+
+# Personal stuff
+drafts/
+notes/
+private/
+*.md.backup
+*.old
+*.secret
+*.env
+
+# Image/source backups
+*.psd
+*.xcf
+*.ai
+*.zip
+*.tar
+*.tar.gz
+
+# OS-specific metadata
+Icon?
