@@ -1,0 +1,12 @@
+body {
+  font-family: Georgia, serif;
+  line-height: 1.7;
+  margin: 2.5rem auto;
+  max-width: 720px;
+  padding: 0 1rem;
+
+  background-color: #1c1c2b; /* Night vibe */
+  color: #f3f3f3;
+}
+a { color: darkred; text-decoration: none; }
+a:hover { text-decoration: underline; }
