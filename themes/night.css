@@ -1,0 +1,18 @@
+:root {
+  --bg: #090a0f;
+  --panel: #13141d;
+  --text: #e4f8e7;
+  --muted: #95b79a;
+  --border: #1e202b;
+  --accent: #179d4d;
+  --accent-hover: #10cc5e;
+}
+
+body {
+  background-image: radial-gradient(circle at 30% 20%, #0c0f13, #060708 90%);
+}
+
+.story-page h1 {
+  color: var(--accent);
+  text-shadow: 0 0 12px rgba(46,240,123,0.3);
+}
