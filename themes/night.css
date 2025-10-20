@@ -16,3 +16,11 @@ body {
   color: var(--accent);
   text-shadow: 0 0 12px rgba(46,240,123,0.3);
 }
+
+:root {
+  --accent: #11d45f;
+  --glow-1: rgba(17, 109, 54, 0.8);
+  --glow-2: rgba(46,240,123,0.6);
+  --glow-3: rgba(46,240,123,1);
+  --glow-4: rgba(46,240,123,0.9);
+}
